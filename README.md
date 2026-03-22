@@ -1,4 +1,4 @@
 
 # 
-[Authorization]([https://elinaulli.github.io/authorization/])
+[Authorization](https://elinaulli.github.io/authorization/)
 ---
